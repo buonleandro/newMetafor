@@ -1,3 +1,3 @@
 # newMetafor
 
-Using Stanford CoreNLP (https://stanfordnlp.github.io/CoreNLP/), "newMetafor" can convert your sentences into code
+Using Stanford CoreNLP (https://stanfordnlp.github.io/CoreNLP/) and Tint (https://github.com/dhfbk/tint), "newMetafor" can convert your sentences into code
